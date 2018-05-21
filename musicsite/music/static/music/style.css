@@ -1,0 +1,45 @@
+body {
+    background: white url("images/black.png");
+    font-family: 'Agency FB', cursive;
+}
+
+ul.errorlist {
+    padding-left: 0;
+}
+
+ul.errorlist > li {
+    list-style: none;
+}
+
+.navbar {
+    border-radius: 0;
+}
+
+.navbar-brand {
+    font-family: 'Satisfy', cursive;
+}
+
+.glyphicon-star {
+    color: #CCCCCC;
+    font-size: 16px;
+}
+
+.glyphicon-star.active {
+    color: #FDB230;
+}
+
+.thumbnail{
+    max-height: 50%;
+    background-color: rgba(245, 245, 245, 0.4);
+}
+
+.panel{
+    background-color: rgba(245, 245, 245, 0.4);
+}
+
+.image_square{
+    /* 50% 50% centers image in div */
+ min-width: 100%;
+    height: auto;
+
+}
